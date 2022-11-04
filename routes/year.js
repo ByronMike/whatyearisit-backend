@@ -7,5 +7,4 @@ router.get("/", (req, res) => {
   res.json({ year: year });
 });
 
-
 module.exports = router;
